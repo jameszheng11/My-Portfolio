@@ -51,6 +51,10 @@ thead {
   color: white;
 }
 
+#contact .container i {
+  font-size: 2rem;
+}
+
 footer {
   background-color: #727a6b;
   flex: 0 1 40px;
