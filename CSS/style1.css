@@ -5,7 +5,7 @@ html, body {
 }
 
 html {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 h1 {
@@ -51,7 +51,7 @@ i:hover {
 }
 
 .rightBorder {
-  border-right: 1px solid darkgreen;
+  border-right: 1px solid #727a6b;
 }
 
 thead {
